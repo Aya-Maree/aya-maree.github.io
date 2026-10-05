@@ -27,7 +27,7 @@ export const about = {
   pullQuote:
     'I like turning messy, manual processes into tools that just work, and building websites people actually enjoy using.',
   paragraphs: [
-    "I'm a Software Engineering graduate from Western University's co-op program. I've modernized legacy financial systems at Canada Life, built Qt6 toolchains on Linux at IO Industries, and now help run the Faculty of Science's web platforms.",
+    "   I graduated from Western University in Software Engineering, with three co-op terms along the way. I've modernized legacy financial systems at Canada Life, built Qt6 toolchains on Linux at IO Industries, and now help run the Faculty of Science's web platforms.",
     "I love working with stakeholders, figuring out what they really need, and shipping something reliable and well documented. I've done that in finance, industrial tech, healthcare and higher education, so I pick up new teams, tools and problems quickly.",
   ],
 };
